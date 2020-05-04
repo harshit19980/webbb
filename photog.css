@@ -1,0 +1,23 @@
+
+body
+{
+	background: rgb(145, 168, 50)
+}
+img
+{
+	width: 30%;
+	float:left;
+	margin:1%;
+	border: 1px solid black;
+}
+
+h3{
+	
+	font-family: Indie Flower;
+	font-size: 40px;
+	margin:auto;
+	padding: 2px;
+	width: 50%;
+	border-bottom: 2px solid #fff1f1;
+
+}
